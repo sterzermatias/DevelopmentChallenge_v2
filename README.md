@@ -35,6 +35,7 @@ Se aplicaron principios SOLID para mejorar la estructura de la aplicación y fac
 ## 📂 Estructura del Proyecto
 
 DevelopmentChallenge 
+    
     │── Interfaces │ 
             ├── IFormaGeometrica.cs │
     
