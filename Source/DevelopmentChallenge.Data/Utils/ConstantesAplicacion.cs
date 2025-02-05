@@ -22,9 +22,9 @@
         public const string NombreCirculoEn = "Circle";
         public const string NombreCirculoIt = "Cerchio";
 
-        public const string NombreTrianguloEs = "Triángulo Equilátero";
-        public const string NombreTrianguloEn = "Equilateral Triangle";
-        public const string NombreTrianguloIt = "Triangolo Equilatero";
+        public const string NombreTrianguloEs = "Triángulo";
+        public const string NombreTrianguloEn = "Triangle";
+        public const string NombreTrianguloIt = "Triangolo";
 
         public const string NombreTrapecioEs = "Trapecio";
         public const string NombreTrapecioEn = "Trapezoid";
@@ -42,9 +42,9 @@
         public const string NombreCirculosEn = "Circles";
         public const string NombreCirculosIt = "Cerchi";
 
-        public const string NombreTriangulosEs = "Triángulos Equiláteros";
-        public const string NombreTriangulosEn = "Equilateral Triangles";
-        public const string NombreTriangulosIt = "Triangoli Equilateri";
+        public const string NombreTriangulosEs = "Triángulos";
+        public const string NombreTriangulosEn = "Triangles";
+        public const string NombreTriangulosIt = "Triangoli";
 
         public const string NombreTrapeciosEs = "Trapecios";
         public const string NombreTrapeciosEn = "Trapezoids";
