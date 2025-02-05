@@ -4,6 +4,7 @@
     {
         public const string IdiomaEs = "es";
         public const string IdiomaEn = "en";
+        public const string IdiomaFr = "fr";
         public const string IdiomaIt = "it";
 
         public const string NombreIdiomaEs = "Castellano";
