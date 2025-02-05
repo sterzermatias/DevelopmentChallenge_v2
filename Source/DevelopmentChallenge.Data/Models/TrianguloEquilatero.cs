@@ -21,7 +21,7 @@ namespace DevelopmentChallenge.Data.Models
         public TrianguloEquilatero(decimal lado, Validador validador = null)
         {
             if (lado <= 0)
-                throw new ArgumentException("El lado debe ser mayor que 0.");
+                throw new ArgumentException(ConstantesAplicacion.ErrorValorInvalido);
             _lado = lado;
             _validador = validador ?? new Validador(); 
         }

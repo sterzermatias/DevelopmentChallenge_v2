@@ -25,7 +25,7 @@ namespace DevelopmentChallenge.Data.Models
         public Trapecio(decimal baseMayor, decimal baseMenor, decimal altura, decimal lado1, decimal lado2, Validador validador = null)
         {
             if (baseMayor <= 0 || baseMenor <= 0 || altura <= 0 || lado1 <= 0 || lado2 <= 0)
-                throw new ArgumentException("Todos los valores deben ser mayores que 0.");
+                throw new ArgumentException(ConstantesAplicacion.ErrorValorInvalido);
 
             _baseMayor = baseMayor;
             _baseMenor = baseMenor;

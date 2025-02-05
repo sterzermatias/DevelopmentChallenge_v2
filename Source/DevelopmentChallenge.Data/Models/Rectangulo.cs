@@ -22,7 +22,7 @@ namespace DevelopmentChallenge.Data.Models
         public Rectangulo(decimal baseRectangulo, decimal altura, Validador validador = null)
         {
             if (baseRectangulo <= 0 || altura <= 0)
-                throw new ArgumentException("La base y la altura deben ser mayores que 0.");
+                throw new ArgumentException(ConstantesAplicacion.ErrorValorInvalido);
 
             _base = baseRectangulo;
             _altura = altura;

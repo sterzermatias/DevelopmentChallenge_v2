@@ -73,6 +73,10 @@
         public const string PalabraPerimetroEs = "Perímetro";
         public const string PalabraPerimetroEn = "Perimeter";
         public const string PalabraPerimetroIt = "Perimetro";
+
+        public const string ErrorCantidadInvalida = "La cantidad debe ser mayor que 0.";
+        public const string ErrorIdiomaNoSoportado = "Idioma no soportado.";
+        public const string ErrorValorInvalido = "El valor ingresado debe ser mayor que 0.";
     }
 
 }

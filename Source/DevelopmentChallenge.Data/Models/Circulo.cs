@@ -22,7 +22,7 @@ namespace DevelopmentChallenge.Data.Models
         public Circulo(decimal radio, Validador validador = null)
         {
             if (radio <= 0)
-                throw new ArgumentException("El radio debe ser mayor que 0.");
+                throw new ArgumentException(ConstantesAplicacion.ErrorValorInvalido);
             _radio = radio;
             _validador = validador ?? new Validador();
         }
