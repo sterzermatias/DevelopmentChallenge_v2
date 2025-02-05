@@ -6,7 +6,7 @@ using System.Globalization;
 using System.Linq;
 using System.Text;
 
-namespace DevelopmentChallenge.Data.Classes
+namespace DevelopmentChallenge.Data.Services
 {
     public class GeneradorReporte
     {

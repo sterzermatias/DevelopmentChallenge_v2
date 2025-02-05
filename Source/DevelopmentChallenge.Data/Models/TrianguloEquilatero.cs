@@ -1,9 +1,10 @@
 ﻿using DevelopmentChallenge.Data.Interfaces;
+using DevelopmentChallenge.Data.Services;
 using DevelopmentChallenge.Data.Utils;
 using System;
 using System.Collections.Generic;
 
-namespace DevelopmentChallenge.Data.Classes
+namespace DevelopmentChallenge.Data.Models
 {
     public class TrianguloEquilatero : IFormaGeometrica
     {

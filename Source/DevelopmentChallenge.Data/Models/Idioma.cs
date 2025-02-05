@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using DevelopmentChallenge.Data.Utils;
 
-namespace DevelopmentChallenge.Data.Classes
+namespace DevelopmentChallenge.Data.Models
 {
     public static class Idioma
     {
