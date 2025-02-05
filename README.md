@@ -55,10 +55,10 @@ DevelopmentChallenge
              ├── ReporteHtmlGenerator.cs │ 
 
     │── Utils │ 
-        ├── Constantes.cs │ 
+        ├── ConstantesAplicacion.cs │ 
     
     │── Tests │ 
-        ├── DataTests.cs │ 
+        ├── FormaGeometricaTests.cs │ 
     
     │── README.md
 ---
