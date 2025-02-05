@@ -39,15 +39,21 @@ DevelopmentChallenge
     │── Interfaces │ 
             ├── IFormaGeometrica.cs │
     
-    │── Classes │
+    │── Models │
              ├── Cuadrado.cs │
              ├── Circulo.cs │ 
              ├── TrianguloEquilatero.cs │ 
              ├── Trapecio.cs │ 
              ├── Rectangulo.cs │ 
+             ├── Idioma.cs │ 
+             
+    │── Services │
              ├── GeneradorReporte.cs │ 
              ├── Validador.cs │ 
     
+    │── Reportes │
+             ├── ReporteHtmlGenerator.cs │ 
+
     │── Utils │ 
         ├── Constantes.cs │ 
     
